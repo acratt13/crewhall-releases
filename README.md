@@ -10,4 +10,4 @@ Every build here is code-signed and notarized by Apple.
 - First run walks you through connecting your builder (any OpenAI / Anthropic / OpenRouter API key works; local models via LM Studio or Ollama too).
 - The app self-updates after install.
 
-Website: https://truememoryframworks.com
+Website: https://tmfmc.netlify.app
