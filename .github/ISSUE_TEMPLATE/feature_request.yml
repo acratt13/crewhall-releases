@@ -1,0 +1,17 @@
+name: ✨ Feature request
+description: Something you want Crewhall or your builder to do
+title: "[want] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: want
+    attributes:
+      label: What do you want it to do?
+      description: Describe it like you'd ask your builder — plain words, what you'd expect to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
+      description: The real task behind the ask helps us build the right thing.

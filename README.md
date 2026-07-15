@@ -11,3 +11,10 @@ Every build here is code-signed and notarized by Apple.
 - The app self-updates after install.
 
 Website: https://tmfmc.netlify.app
+
+## Feedback
+
+- 🐛 **[Report a bug](../../issues/new?template=bug_report.yml)**
+- ✨ **[Request a feature](../../issues/new?template=feature_request.yml)**
+
+Brutal honesty welcome — it's the most valuable thing you can give us.

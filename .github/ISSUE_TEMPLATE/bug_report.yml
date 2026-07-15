@@ -1,0 +1,24 @@
+name: 🐛 Bug report
+description: Something in Crewhall broke or acted wrong
+title: "[bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, what happened instead? Brutal honesty is the most valuable thing you can give us.
+      placeholder: "I asked my builder to … and it …"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Crewhall version
+      description: Menu bar → About, or the version on your download
+      placeholder: "0.3.67"
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, the exact ask you typed, what your builder said back
